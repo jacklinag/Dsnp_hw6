@@ -1,0 +1,10 @@
+cirr tests.fraig/sim10.aag
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 236
+cirg 236 -fanin 3
+cirg 236 -fanout 3
+cirw -o output.aag
